@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+CREATE_Dataframes.ipynb
+WORK_dataFrames.ipynb
+checkpoints/
+glov_embeddings.npy
+models/
+skipgram_tensorflow/
+
