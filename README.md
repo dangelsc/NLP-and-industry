@@ -16,7 +16,7 @@ The goal of this project is to create a word map that describes the influence of
 
 <div align="center">
   <img src="tests/index.png" width="700px" />
-  <p>Fitting embeddings to T-SNE. </p>
+  <p>Fitting embeddings to T-SNE random sample. </p>
 </div>
 
 ## License
