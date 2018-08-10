@@ -1,4 +1,4 @@
-# Object Detection with MobileNetsv2
+# Word Embedding for predictive maintance.
 
 This is a implementation of [MobileNetsv2](https://arxiv.org/abs/1703.06870) for detecting Cars  & Trained Weights Using Tensorflow. It is written in Python and powered by TensorFlow deep learning framework.
 
@@ -21,7 +21,7 @@ The goal of this project is to create a word map that describes the influence of
 
 ## License
 
-This object detection interface is released under the [Apache 2.0 license](https://github.com/facebookresearch/detectron/blob/master/LICENSE). 
+This project and his data set is released under the [Apache 2.0 license](https://github.com/facebookresearch/detectron/blob/master/LICENSE). 
 
 
 ## Requirement
