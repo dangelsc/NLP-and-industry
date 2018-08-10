@@ -2,6 +2,8 @@
 
 Word Embedding for predictive predictive maintenance in industry based on historic daily reports, this word embedding use the GloVe algorithm, the Visualization  of the Learnings of the GloVe Algorithm are made with TensorBoard and standar vis techniques. The information about how to run this is into the NLP.ipynb.
 
+Each word is influenced by its neighbors and this influence reflects the degree of correlation that exists between them, for example the word "falla" will be surrounded by words that could cause a failure of some kind.
+
 
 <div align="center">
   <img src="tests/tensorboard.png" width="700px" />
