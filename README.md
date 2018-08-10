@@ -31,6 +31,10 @@ This project and his data set is released under the [Apache 2.0 license](https:/
 - TensorFlow >= 1.4
 - NLTK
 
+## Note
+* This is a work in progres
+* The data was extracted from historic excel tables as a process of data mining, code will be added soon.
+* Trained word embedding and model checkpoints for tensorboard visualization will be added soon.
 
 
 ## References
