@@ -1,6 +1,6 @@
 # Word Embedding for predictive maintenance.
 
-Word Embedding for predictive maintance in industry based on historic daily reports, this word embedding use the GloVe algorithm, the Visualization  of the Learnings of the GloVe Algorithm are made with TensorBoard and standar vis techniques. The information about how to run this is into the NLP.ipynb.
+Word Embedding for predictive predictive maintenance in industry based on historic daily reports, this word embedding use the GloVe algorithm, the Visualization  of the Learnings of the GloVe Algorithm are made with TensorBoard and standar vis techniques. The information about how to run this is into the NLP.ipynb.
 
 
 <div align="center">
@@ -16,7 +16,7 @@ The goal of this project is to create a word map that describes the influence of
 
 <div align="center">
   <img src="tests/index.png" width="700px" />
-  <p>Fitting embeddings to T-SNE random sample. </p>
+  <p>Fitting embeddings to T-SNE and a random sample of it. </p>
 </div>
 
 ## License
