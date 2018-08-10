@@ -1,4 +1,4 @@
-# Word Embedding for predictive maintance.
+# Word Embedding for predictive maintenance.
 
 Word Embedding for predictive maintance in industry based on historic daily reports, this word embedding use the GloVe algorithm, the Visualization  of the Learnings of the GloVe Algorithm are made with TensorBoard and standar vis techniques. The information about how to run this is into the NLP.ipynb.
 
