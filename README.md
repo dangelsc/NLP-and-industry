@@ -1,6 +1,6 @@
 # Word Embedding for predictive maintance.
 
-This is a implementation of [MobileNetsv2](https://arxiv.org/abs/1703.06870) for detecting Cars  & Trained Weights Using Tensorflow. It is written in Python and powered by TensorFlow deep learning framework.
+Word Embedding for predictive maintance in industry based on historic daily reports, this word embedding use the GloVe algorithm, the # Visualization  of the Learnings of the GloVe Algorithm are mede of with TensorBoard and standar vis techniques. The information about how to run this is into the NLP.ipynb .
 
 
 <div align="center">
